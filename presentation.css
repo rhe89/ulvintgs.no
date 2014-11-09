@@ -1,0 +1,10 @@
+.content {
+	color: black;
+}
+.about, .about_left, .about_right {
+	background-color: rgb(233, 242, 243);
+}
+
+.about:hover, .about_left:hover, .about_right:hover {
+	background-color: rgb(233, 242, 250);
+}

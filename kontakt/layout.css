@@ -1,0 +1,76 @@
+.content {
+	margin-top: 10%;
+}
+
+.contact {
+	width: 100%;
+	text-align: center;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.contact_element {
+	display: inline;
+	width: 200px;
+	height: 200px;
+	margin: 20px;
+}
+
+.contact_element table {
+	display:inline;
+}
+
+.contact .info {
+	padding: -10px;
+	margin-top: 50px;
+	display: block;
+	width: 710px;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+#under_info{
+	font-size:10px;
+	text-align:center;
+}
+
+.contact_element .text_box {
+	width: 200px;
+	height: 100px;
+}
+
+.contact_element .text_box .text {
+	position: relative;
+	text-align: center;
+	top: 10px;
+	margin-bottom: 3%;
+}
+
+.text small{
+	font-size: 10px;
+}
+.contact_element .icon_box {
+	text-align: center;
+	-webkit-transition: all 0.3s ease;
+     -moz-transition: all 0.3s ease;
+       -o-transition: all 0.3s ease;
+     	 -ms-transition: all 0.3s ease;
+          	transition: all 0.3s ease;
+}
+.contact_element .icon_box .icon {
+	width: 100px;
+	height: 100px;
+}
+iframe {
+	margin-left: auto;
+	margin-right: auto;
+	width: 1000px;
+	height: 450px;
+	margin-top: 100px;
+}
+
+#kontakt {
+  color: white;
+  background-color: rgba(0, 0, 0, 0.2);
+  border-radius: 4px;
+}

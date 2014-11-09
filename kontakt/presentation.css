@@ -1,0 +1,23 @@
+.contact_element table, .contact .info {
+	border: 1px solid rgb(240, 240, 240);
+}
+
+.contact_element:hover .icon_box {
+	background-color: white;
+}
+
+.contact_element:hover .text_box, #text_el, {
+	color: black;
+}
+
+.icon_box {
+	background-color: rgba(1, 1, 1, 0.06);
+}
+
+.contact_element .text_box, .info {
+	background-color: #e9f2f3;	
+}
+
+.elements #text_el {
+	color: grey;
+}
